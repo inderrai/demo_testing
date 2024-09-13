@@ -1,4 +1,4 @@
-#create a new repository on the command line.
+#inder##create a new repository on the command line.
 
 echo "# inderrai" >> README.md
 git init
