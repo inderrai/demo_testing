@@ -8,7 +8,7 @@ git branch -M main
 git remote add origin https://github.com/inderrai/inderrai.git
 git push -u origin main
 
-#push push an existing repository from the command line
+#push an existing repository from the command line
 
 git remote add origin https://github.com/inderrai/inderrai.git
 git branch -M main
