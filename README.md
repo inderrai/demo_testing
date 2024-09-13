@@ -1,4 +1,4 @@
-#inder##create a new repository on the command line.
+#create a new repository on the command line.
 
 echo "# inderrai" >> README.md
 git init
@@ -8,7 +8,7 @@ git branch -M main
 git remote add origin https://github.com/inderrai/inderrai.git
 git push -u origin main
 
-##push an existing repository from the command line
+#push push an existing repository from the command line
 
 git remote add origin https://github.com/inderrai/inderrai.git
 git branch -M main
